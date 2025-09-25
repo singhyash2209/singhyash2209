@@ -4,8 +4,6 @@
 <p align="center">
   Master of Analytics @ Northeastern University (Toronto) · Data Analytics · ML · Cloud (AWS)<br/>
   <b>Available for Co-op/Internship — Data Analytics • BI • ML</b><br/>
-  <a href="mailto:yash.singh504@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/singhyash2209">LinkedIn</a>
 </p>
 
 <p align="center">
