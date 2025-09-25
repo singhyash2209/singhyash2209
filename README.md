@@ -4,8 +4,15 @@
 <p align="center">
   Master of Analytics @ Northeastern University (Toronto) · Data Analytics · ML · Cloud (AWS)<br/>
   <b>Available for Co-op/Internship — Data Analytics • BI • ML</b><br/>
-  <a href="mailto:singh.yasham@northeastern.edu">Email</a> ·
+  <a href="mailto:yash.singh504@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/singhyash2209">LinkedIn</a>
+</p>
+
+<p align="center">
+  <!-- Social / Contact Badges -->
+  <a href="mailto:singh.yasham@northeastern.edu"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/singhyash2209"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Toronto-ON-lightgrey?style=flat&logo=google-maps" />
 </p>
 
 ---
@@ -18,16 +25,35 @@
 ---
 
 ## 🧰 Tech Stack
-**Programming:** `Python` `R` `SQL`  
-**Data & ML:** `pandas` `scikit-learn` `tidyverse` `caret` `glmnet` `pROC` `tm`  
-**Cloud:** `AWS S3` `AWS SageMaker` `AWS Lambda` `AWS DynamoDB`  
-**BI & Viz:** `Power BI` `Tableau`  
-**Workflow:** `Git` `GitHub` `Markdown`
+<p>
+  <!-- Languages -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-005C8A?logo=databricks&logoColor=white" />
+  <!-- Data/ML -->
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-1A162D?logo=R&logoColor=white" />
+  <img alt="caret" src="https://img.shields.io/badge/caret-R%20pkg-75AADB" />
+  <img alt="glmnet" src="https://img.shields.io/badge/glmnet-R%20pkg-75AADB" />
+  <!-- Cloud -->
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img alt="S3" src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" />
+  <img alt="Lambda" src="https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white" />
+  <img alt="SageMaker" src="https://img.shields.io/badge/SageMaker-1F72B5?logo=amazonaws&logoColor=white" />
+  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
+  <!-- BI -->
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <!-- Workflow -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
-> My coursework is organized in **Academic-Projects** (Term → Course → Project). Here are highlights a recruiter should see first:
+> My coursework is organized in **Academic-Projects** (Term → Course → Project). Highlights:
 
 ### 🧭 Federal Opportunity Mapping — NAICS + Grants.gov API
 - **What:** Map client keywords to **NAICS** and surface matching federal opportunities.  
@@ -63,13 +89,48 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhyash2209&layout=compact&theme=transparent" height="150" />
 </p>
 
-> Tip: If the cards don’t render immediately, they usually show up after a short while.
+<p>
+  <img src="https://streak-stats.demolab.com/?user=singhyash2209&theme=transparent" height="150" />
+</p>
+
+> Tip: If the cards don’t render immediately, they usually appear after a short while (GitHub caching).
 
 ---
 
-## 🎓 Education & Certifications
-- **Master of Analytics**, Northeastern University (Toronto), 2024–2026  
-- **Certs:** AWS Cloud Practitioner *(in progress)*, Databricks Lakehouse Fundamentals *(target Nov 2025)*
+## 🎓 Education
+- **Master of Professional Studies (MPS) in Analytics**, Northeastern University — Toronto, ON  
+  *09/2024 – Expected 2026 · GPA: 3.81*  
+  **Relevant Coursework:** Data Warehousing & SQL, Communication & Visualization, Enterprise Analytics
+
+- **Bachelor of Computer Engineering**, Vasantdada Patil College of Engineering — Mumbai, India  
+  *08/2019 – 07/2023 · GPA: 3.5*
+
+---
+
+## 🏅 Certifications
+- **Artificial Intelligence with Python — Microsoft Coincent** *(07/23)*
+- **Data Science with Python — Microsoft Coincent** *(07/23)*
+- **Master Artificial Intelligence (6 Projects) — Udemy** *(11/24)*
+- **Databricks Lakehouse Fundamentals** *(09/25)*
+- **Generative AI Fundamentals — Databricks** *(09/25)*
+
+---
+
+<details>
+  <summary><b>📚 Coursework (expand)</b></summary>
+
+  ### Data Mining & ML
+  - Decision Trees, Logistic Regression, Ensembles, **SVM**, Text Mining
+
+  ### Statistics & Modeling
+  - Regression diagnostics (Ames), Logistic classification, **Ridge/LASSO (glmnet)**
+
+  ### Enterprise Analytics
+  - Simulation (Monte Carlo), Forecasting (WMA/SES/Holt), Inventory (EOQ/ROP), LP, Transshipment/Portfolio
+
+  ### Cloud & Data Management
+  - **AWS (S3, Lambda, SageMaker, DynamoDB)**, database design & SQL
+</details>
 
 ---
 
@@ -77,3 +138,7 @@
 Open to co-op/intern roles in **Toronto/Canada** — Data Analytics, BI, or ML.
 
 ---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=singhyash2209&style=flat&label=Profile+Views" alt="Profile views"/>
+</p>
